@@ -1,0 +1,15 @@
+body{
+    color: gray;
+    background-color: antiquewhite;
+    text-align: center;
+    
+}
+.h2{
+    color: black;
+    background-color: black;
+}
+#content{
+    color: black;
+    opacity: 2px;
+    text-decoration: wavys;
+}
